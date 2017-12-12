@@ -9,4 +9,5 @@ One key feature is the ability to add news sources to a favorites list in order 
 Stretch goals:
   - Swipe functionality on mobile devices
   - Deploy the app using AWS
+  - Push notifications??
   
