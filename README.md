@@ -18,3 +18,9 @@ One key feature is the ability to add news sources to a favorites list in order 
 - Using the app, he'll see a feed of the latest headlines from a variety of sources
 - For news organizations that he especially likes, he can add them to a list of Favorites
 - If there are stories that he doesn't have time to read, he can add them to a "Read Later" list     
+
+
+Technologies Used:
+
+- Rails 
+  - Clearance (for authentication) 
