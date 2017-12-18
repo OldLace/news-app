@@ -1,0 +1,12 @@
+
+<% puts @newsfeed %>
+
+<h1>All our wonderful cats!</h1>
+
+<ul>
+  <% @newsfeed.each do |newsfeed| %>
+    <li><% articles.author %></li>
+    <li><% articles.title %></li>
+    <li><% articles.description %></li>
+  <% end %>
+</ul>

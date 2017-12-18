@@ -57,6 +57,9 @@ group :development do
   # gem 'omniauth-auth0', '~> 1.4.1'
   gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
   gem 'nokogiri', '~> 1.8', '>= 1.8.1'
+  gem 'httparty', '~> 0.15.6'
+  gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+  # gem 'sass-rails', '~> 5.0', '>= 5.0.7'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
