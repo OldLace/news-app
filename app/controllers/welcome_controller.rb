@@ -1,9 +1,21 @@
 require 'HTTParty'
+require 'open-uri'
 
 class WelcomeController < ApplicationController
   def index
-    @newsfeed = HTTParty.get('https://newsapi.org/v2/top-headlines?sources=google-news&apiKey=NEWSAPI_KEY',
-    :headers => {'Content-Type' => 'application/json'} )
+    @headlines = []
+    response = HTTParty.get "https://newsapi.org/v2/top-headlines?sources=google-news&apiKey=NEWSAPI_KEY"
+    news = response.parsed_response['title']
+    @headlines.push news
+
+# def show
+#   get '/show', to: 'Welcome#show'
+# end
+
+
+
+    # @newsfeed = HTTParty.get('https://newsapi.org/v2/top-headlines?sources=google-news&apiKey=NEWSAPI_KEY',
+    # :headers => {'Content-Type' => 'application/json'} )
   end
 end
 
@@ -20,16 +32,26 @@ end
 # end
 
 class Monday
-  # get '/' do
-    @headlines = []
+  # get '/show' do
+  #   @headlines = []
 
-    response = HTTParty.get "https://newsapi.org/v2/top-headlines?sources=google-news&apiKey=NEWSAPI_KEY"
-    news = response.parsed_response['title']
+    # response = HTTParty.get "https://newsapi.org/v2/top-headlines?sources=google-news&apiKey=NEWSAPI_KEY"
+    # news = response.parsed_response['title']
     # response.parsed_response['description']
     # response.parsed_response['url']
-  @headlines.push news
+  # @headlines.push news
     # erb :index
 
+end
+
+
+class TryAgain
+  kittens = open('http://placekitten.com/')
+  response_status = kittens.status
+  response_body = kittens.read[559, 441]
+
+  puts response_status
+  puts response_body
 end
 
 

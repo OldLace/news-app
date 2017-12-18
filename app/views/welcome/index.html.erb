@@ -1,12 +1,10 @@
+<h1>Ye Olde Index Page</h1>
 
-<% puts @newsfeed %>
 
-<h1>All our wonderful cats!</h1>
+<% @headlines.each do |title| %>
+  <%= title %>
 
-<ul>
-  <% @newsfeed.each do |newsfeed| %>
-    <li><% articles.author %></li>
-    <li><% articles.title %></li>
-    <li><% articles.description %></li>
-  <% end %>
-</ul>
+
+<% end %>
+
+
