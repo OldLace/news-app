@@ -59,6 +59,8 @@ group :development do
   gem 'nokogiri', '~> 1.8', '>= 1.8.1'
   gem 'httparty', '~> 0.15.6'
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+  gem 'byebug'
+  gem 'figaro'
   # gem 'sass-rails', '~> 5.0', '>= 5.0.7'
 end
 
