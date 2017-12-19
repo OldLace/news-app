@@ -2,11 +2,13 @@
 <h1>Ye Olde Index Page</h1>
 
 <h2>Recent Headlines</h2>
-<div>
-<% @headlines.each do |pokemon| %>
+<div id="newsfeed">
+  <% @headlines["articles"].each do |headline| %>
+  <p><%= headline["title"] %></p>
+    
 
-<p><%= @headlines["articles"][2] %></p>
-<p><%= @headlines["description"] %></p>
+    </div>
 <% end %>
 
-</div>
+
+

@@ -16,11 +16,15 @@ class WelcomeController < ApplicationController
     @headlines = HTTParty.get('https://newsapi.org/v2/top-headlines?sources=google-news&apiKey=6a44909901264e94a5d8dc9b5714bb51',
                               # pokemon = parsed_response['article']
     :headers =>{'Content-Type' => 'text/html'} )
+
+       # @headlines.each do |headline|
+       #
+       #   puts @headlines
+       end
     # JSON.parse(json)
     # puts obj
   end
   def show
 
   end
-end
 

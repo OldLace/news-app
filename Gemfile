@@ -61,6 +61,7 @@ group :development do
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
   gem 'byebug'
   gem 'figaro'
+  gem 'foundation-rails', '~> 6.4', '>= 6.4.1.3'
   # gem 'sass-rails', '~> 5.0', '>= 5.0.7'
 end
 

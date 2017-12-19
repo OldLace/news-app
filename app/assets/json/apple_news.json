@@ -1,2 +1,226 @@
 module AppleObj
-AppleNews = {"status":"ok","totalResults":2860,"articles":[{"source":{"id":null,"name":"Lifehacker.com"},"author":"Emily Price","title":"This Apple Store App Easter Egg Makes it Snow on Your Screen","description":"Apple is celebrating the holiday season with an easter egg in its Apple Store app that turns your iPhone into a snow globe. Read more...","url":"https://lifehacker.com/this-apple-store-app-easter-egg-makes-it-snow-on-your-s-1821373599","urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/s--nKmFUdEZ--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/hsqtowmujqfgxqtmhynj.jpg","publishedAt":"2017-12-18T01:22:00Z"},{"source":{"id":null,"name":"Lifehacker.com"},"author":"Jacob Kleinman","title":"You Can Get the iPhone X Delivered Tomorrow if You Order Right Now From Apple","description":"Getting your hands on the iPhone X hasn’t always been an easy task since it first launched in early November, but it looks like Apple is finally getting its act together. The company is currently offering free next-day delivery, as long as you get in your ord…","url":"https://lifehacker.com/you-can-get-the-iphone-x-delivered-tomorrow-if-you-orde-1821389653","urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/s--16BgxtFB--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/nbhpz63damlutpwo6lrv.jpg","publishedAt":"2017-12-18T18:37:00Z"},{"source":{"id":null,"name":"Lifehacker.com"},"author":"Alice Bradley","title":"The Best of The Upgrade 2017","description":"It was quite a year for Lifehacker’s podcast, The Upgrade. In this episode, we talk about (and listen to) our favorite moments from the past year’s episodes. In 2017, we learned how to turn our awkwardness into a social asset; how to be brilliant (while being…","url":"https://lifehacker.com/the-best-of-the-upgrade-2017-1821388766","urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/s--OHwQwO7P--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/j8z04pkligcjsjqqwwiw.jpg","publishedAt":"2017-12-18T18:15:00Z"},{"source":{"id":"engadget","name":"Engadget"},"author":"Jon Fingas","title":"Apple has finally caught up with iPhone X demand","description":"The iPhone X was an elusive unicorn on launch. If you didn't snag one of the earliest pre-orders or get lucky waiting in line, you were looking at a weeks-long wait -- more than a few people flipped their units for a tidy profit. Now, however? They're practic…","url":"https://www.engadget.com/2017/12/18/apple-catches-up-with-iphone-x-demand/","urlToImage":"https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2000%252C1292%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1034%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F488a9fa8f16743b38e35cfcb967b2bbc%252F205908548%252Fmg-4451-1.jpg%26client%3Da1acac3e1b3290917d92%26signature%3D4297321ae8ad9b25a3ebdc25c27f621b7fddef8e&client=cbc79c14efcebee57402&signature=c900ba58dedf302fd4714c718630e7659fa075b5","publishedAt":"2017-12-18T18:23:00Z"},{"source":{"id":"engadget","name":"Engadget"},"author":"Engadget","title":"The best subscriptions and gift cards to buy as (last-minute) gifts","description":"Need a last-minute gift? No one will argue if you buy them a gift card to a streaming service. Included in our holiday gift guide are all the usual suspects: Apple Music, Amazon Prime, Netflix in UHD, Hulu, Sling TV and HBO Now. (And there were many others th…","url":"https://www.engadget.com/2017/12/18/engadget-holiday-gift-guide-streaming-subscriptions-gift-cards/","urlToImage":"https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fdd75336a2d3e25df855dc670cc9ac9de%2F205883837%2Fstreamers-subs-lede-1.jpg&client=cbc79c14efcebee57402&signature=1caa1e316cc246b3d276bbaab71ea269a02f30cf","publishedAt":"2017-12-18T18:00:00Z"},{"source":{"id":"engadget","name":"Engadget"},"author":"Saqib Shah","title":"'Rainbrow' is an iPhone X game you play with your eyebrows","description":"If you were eagerly awaiting the day you'd get to control a smartphone game with your eyebrows, the time is now. At least, if you own Apple's thousand-dollar iPhone X. \" Rainbrow \" (see what they did there) is the brainchild of Washington University computer …","url":"https://www.engadget.com/2017/12/18/rainbrow-iphone-x-game-eyebrows/","urlToImage":"https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F243f1bc1606065e67d59d62dc5b45bc1%2F205961770%2FScreen%2BShot%2B2017-12-18%2Bat%2B23.jpg&client=cbc79c14efcebee57402&signature=7002aa9f7e453dfd21177d4d556f832c8a688362","publishedAt":"2017-12-18T13:29:00Z"},{"source":{"id":"engadget","name":"Engadget"},"author":"Mat Smith","title":"The Morning After: Monday, December 18th 2017","description":"Monday morning arrives, and as we gear up for the pre-holiday weekend (ignoring the five days left to go), we're talking sell-out AirPods (really?), Firefox auto-installs (seriously), and we break down last week's big events in numerical style in the After Ma…","url":"https://www.engadget.com/2017/12/18/the-morning-after-monday-december-18th-2017/","urlToImage":"https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fe52f48cd9b8d2688007cc059eb3a403b%2F205961742%2F2017-12-18%2B09_27_43.gif&client=cbc79c14efcebee57402&signature=21e9a2c23d5b559f67411fa4e15871cf94a22b8f","publishedAt":"2017-12-18T11:00:00Z"},{"source":{"id":"engadget","name":"Engadget"},"author":"Engadget","title":"We're listening to: Sia, Tove Lo and 'Where Should We Begin?'","description":"Welcome back to IRL, our series dedicated to the things that Engadget writers have been playing, using, watching and listening to. This week we're focusing on music and podcasts, from Sia's Christmas album through to Rihanna's stunning Anti. First up, executi…","url":"https://www.engadget.com/2017/12/18/were-listening-to-sia-tove-lo-and-where-should-we-begin/","urlToImage":"https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fcbe24efb264f1165be71ecafa953f3b%2F205962201%2Fsia.jpg&client=cbc79c14efcebee57402&signature=f7c954bb4514168a5e5aea7ab4d43b55022ebad1","publishedAt":"2017-12-18T19:30:00Z"},{"source":{"id":"wired","name":"Wired"},"author":"Arielle Pardes","title":"The Shapa Smart Scale Never Tells You How Much You Weigh","description":"The Shapa scale captures your health data over time. But don't expect it to show you any numbers.","url":"https://www.wired.com/story/shapa-smart-scale/","urlToImage":"https://media.wired.com/photos/5a3420565b461c24af905755/191:100/pass/shapa-FA.jpg","publishedAt":"2017-12-18T14:00:00Z"},{"source":{"id":"wired","name":"Wired"},"author":"Jon Marcus","title":"Impatient With Colleges, Employers Design Their Own Courses","description":"Technology companies and other employers are crafting their own curricula and sharing them with colleges and universities.","url":"https://www.wired.com/story/impatient-with-colleges-employers-design-their-own-courses/","urlToImage":"https://media.wired.com/photos/5a34796c1b8a2f160a8dd5ec/191:100/pass/Pendulum-FeatureArt.jpg","publishedAt":"2017-12-18T11:00:00Z"},{"source":{"id":"techcrunch","name":"TechCrunch"},"author":"Brian Heater","title":"Good luck getting Apple AirPods before the holidays","description":"Apple’s wireless earbuds have been on the market for just over a year now, but they’re shaping up to be one of the biggest tech gifts for this holiday season. In fact, most of the big online retailers appear to have sold out of their stock. Amazon, Best Buy, …","url":"https://techcrunch.com/2017/12/18/good-luck-getting-apple-airpods-before-the-holidays/","urlToImage":"https://tctechcrunch2011.files.wordpress.com/2016/12/airpods.png","publishedAt":"2017-12-18T20:08:09Z"},{"source":{"id":"techcrunch","name":"TechCrunch"},"author":"Brian Heater","title":"Adidas shifts away from making its own wearable tech","description":"Wearables are hard. Some of the biggest names in technology have tried and failed to find success in the space, and even those that have become synonymous with the category have struggled to keep up. Adidas is only the latest company to learn this lesson the …","url":"https://techcrunch.com/2017/12/18/adidas-shifts-away-from-making-its-own-wearable-tech/","urlToImage":"https://tctechcrunch2011.files.wordpress.com/2017/08/fitbit_ionic_3qtr_sport_adidas.jpg","publishedAt":"2017-12-18T19:16:18Z"},{"source":{"id":null,"name":"Gizmodo.com"},"author":"Sam Rutherford","title":"Here's One Explanation for Why Your Old iPhone Feels so Damn Slow","description":"For years, people have complained about declining performance in their aging iPhones, an issue that’s commonly attributed to Apple’s software updates. Something beyond a rumor percolated just last week, when a Reddit thread suggested that the cause for the sl…","url":"https://gizmodo.com/heres-one-explanation-for-why-your-old-iphone-feels-so-1821400280","urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/s--fp4H1kzJ--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/sglzzu67sv83urm716hf.jpg","publishedAt":"2017-12-18T22:25:00Z"},{"source":{"id":null,"name":"Gizmodo.com"},"author":"Melanie Ehrenkranz","title":"Facebook Says Government Requests for User Data Rose 21% In First Half of 2017","description":"Facebook released its latest transparency report today, which covered account data requests from the first half of 2017 and revealed a 21 percent increase in government requests for user data worldwide. Those requests rose from 64,279 in the second half of 20…","url":"https://gizmodo.com/facebook-says-government-requests-for-user-data-rose-21-1821396547","urlToImage":"https://i.kinja-img.com/gawker-media/image/upload/s--gnyTcVah--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/gk2qcizzux4kflouarso.jpg","publishedAt":"2017-12-18T21:00:00Z"},{"source":{"id":"mashable","name":"Mashable"},"author":"Monica Chin","title":"There's only one place you can still get Airpods in time for the holidays","description":"If you're a last-minute holiday shopper, you might be in trouble. Apple's Airpods, are in high demand as Christmas approaches. But as of today, most retailers are either sold out of the items or unable to ship them until after Christmas, AppleInsider reports.…","url":"http://mashable.com/2017/12/18/airpods-out-of-stock/","urlToImage":"https://i.amz.mshcdn.com/h6vwytCd9EWB0nlmb7rygYp7rNU=/1200x630/2017%2F12%2F18%2Fce%2F7aeebf946f1544fc9aeccbf74b0fab6c.9228f.jpg","publishedAt":"2017-12-18T16:16:58Z"},{"source":{"id":"mashable","name":"Mashable"},"author":"Emily Heller","title":"Learn how to develop Mac apps with this $15 online course","description":"Just to let you know, if you buy something featured here, Mashable might earn an affiliate commission. If you're sick of watching everyone else create multi-million dollar apps and programs for Mac and have been thinking it's about time you build your own, th…","url":"http://mashable.com/2017/12/18/mac-app-development-course/","urlToImage":"https://i.amz.mshcdn.com/eODHhC8E7H4nhMsxGc9IjdhrtH0=/1200x630/2017%2F12%2F18%2F2c%2F0e5bb6de00a1445dae44341a326da30b.4e155.jpg","publishedAt":"2017-12-18T19:09:35Z"},{"source":{"id":"mashable","name":"Mashable"},"author":"Raymond Wong","title":"Amazon's Echo Spot is the blueprint for all future smart speakers","description":"Every editorial product is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our journalism. Amazon's not declaring it a redo, but the Echo Spot, the company's latest Alexa-p…","url":"http://mashable.com/2017/12/18/amazon-echo-spot-review/","urlToImage":"https://i.amz.mshcdn.com/ugSSuvLkMS3CLWm2POJEXhFG3d4=/1200x630/2017%2F12%2F18%2F43%2F94a914600f1449338a54bf8441662c59.ab539.jpg","publishedAt":"2017-12-18T17:00:00Z"},{"source":{"id":"ars-technica","name":"Ars Technica"},"author":"Valentina Palladino","title":"ReMarkable tablet review: The high price of getting that paper feeling","description":"It’s hard to make the case for a $599 e-ink tablet in 2017.","url":"https://arstechnica.com/gadgets/2017/12/remarkable-tablet-review-the-high-price-of-getting-that-paper-feeling/","urlToImage":"https://cdn.arstechnica.net/wp-content/uploads/2017/12/remarkable7-760x380.jpg","publishedAt":"2017-12-18T17:00:46Z"},{"source":{"id":"reuters","name":"Reuters"},"author":"Reuters Editorial","title":"Internet giants told: Accept cyber curbs to be welcome in China","description":"GENEVA (Reuters) - Google and Facebook will have to accept China's censorship and tough online laws if they want access to its 751 million internet users, Chinese regulators told a conference in Geneva on Monday.","url":"https://www.reuters.com/article/us-china-cyber/internet-giants-told-accept-cyber-curbs-to-be-welcome-in-china-idUSKBN1EC1MQ","urlToImage":"https://s3.reutersmedia.net/resources/r/?m=02&d=20171218&t=2&i=1215379405&w=1200&r=LYNXMPEDBH115","publishedAt":"2017-12-18T13:21:39Z"},{"source":{"id":null,"name":"Androidcentral.com"},"author":"Phil Nickinson","title":"Best 4K streamers of 2017","description":"It's easier than ever to watch 4K content. It's also more confusing than ever. This will point you in the right direction. It's all about 4K, right? Ask anyone about streaming video, and they'll all try to push you toward the future, which is Ultra High-Defin…","url":"https://www.androidcentral.com/best-4k-streamers","urlToImage":"https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2017/01/nvidia-shield-android-tv-on-table-2.jpg?itok=LSJCJlQO","publishedAt":"2017-12-18T16:00:02Z"}]}
+AppleNews = {
+  "status": "ok",
+  "totalResults": 2860,
+  "articles": [{
+    "source": {
+      "id": null,
+      "name": "Lifehacker.com"
+    },
+    "author": "Emily Price",
+    "title": "This Apple Store App Easter Egg Makes it Snow on Your Screen",
+    "description": "Apple is celebrating the holiday season with an easter egg in its Apple Store app that turns your iPhone into a snow globe. Read more...",
+    "url": "https://lifehacker.com/this-apple-store-app-easter-egg-makes-it-snow-on-your-s-1821373599",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--nKmFUdEZ--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/hsqtowmujqfgxqtmhynj.jpg",
+    "publishedAt": "2017-12-18T01:22:00Z"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Lifehacker.com"
+    },
+    "author": "Jacob Kleinman",
+    "title": "You Can Get the iPhone X Delivered Tomorrow if You Order Right Now From Apple",
+    "description": "Getting your hands on the iPhone X hasn’t always been an easy task since it first launched in early November, but it looks like Apple is finally getting its act together. The company is currently offering free next-day delivery, as long as you get in your ord…",
+    "url": "https://lifehacker.com/you-can-get-the-iphone-x-delivered-tomorrow-if-you-orde-1821389653",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--16BgxtFB--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/nbhpz63damlutpwo6lrv.jpg",
+    "publishedAt": "2017-12-18T18:37:00Z"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Lifehacker.com"
+    },
+    "author": "Alice Bradley",
+    "title": "The Best of The Upgrade 2017",
+    "description": "It was quite a year for Lifehacker’s podcast, The Upgrade. In this episode, we talk about (and listen to) our favorite moments from the past year’s episodes. In 2017, we learned how to turn our awkwardness into a social asset; how to be brilliant (while being…",
+    "url": "https://lifehacker.com/the-best-of-the-upgrade-2017-1821388766",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--OHwQwO7P--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/j8z04pkligcjsjqqwwiw.jpg",
+    "publishedAt": "2017-12-18T18:15:00Z"
+  }, {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Jon Fingas",
+    "title": "Apple has finally caught up with iPhone X demand",
+    "description": "The iPhone X was an elusive unicorn on launch. If you didn't snag one of the earliest pre-orders or get lucky waiting in line, you were looking at a weeks-long wait -- more than a few people flipped their units for a tidy profit. Now, however? They're practic…",
+    "url": "https://www.engadget.com/2017/12/18/apple-catches-up-with-iphone-x-demand/",
+    "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2000%252C1292%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1034%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F488a9fa8f16743b38e35cfcb967b2bbc%252F205908548%252Fmg-4451-1.jpg%26client%3Da1acac3e1b3290917d92%26signature%3D4297321ae8ad9b25a3ebdc25c27f621b7fddef8e&client=cbc79c14efcebee57402&signature=c900ba58dedf302fd4714c718630e7659fa075b5",
+    "publishedAt": "2017-12-18T18:23:00Z"
+  }, {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Engadget",
+    "title": "The best subscriptions and gift cards to buy as (last-minute) gifts",
+    "description": "Need a last-minute gift? No one will argue if you buy them a gift card to a streaming service. Included in our holiday gift guide are all the usual suspects: Apple Music, Amazon Prime, Netflix in UHD, Hulu, Sling TV and HBO Now. (And there were many others th…",
+    "url": "https://www.engadget.com/2017/12/18/engadget-holiday-gift-guide-streaming-subscriptions-gift-cards/",
+    "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fdd75336a2d3e25df855dc670cc9ac9de%2F205883837%2Fstreamers-subs-lede-1.jpg&client=cbc79c14efcebee57402&signature=1caa1e316cc246b3d276bbaab71ea269a02f30cf",
+    "publishedAt": "2017-12-18T18:00:00Z"
+  }, {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Saqib Shah",
+    "title": "'Rainbrow' is an iPhone X game you play with your eyebrows",
+    "description": "If you were eagerly awaiting the day you'd get to control a smartphone game with your eyebrows, the time is now. At least, if you own Apple's thousand-dollar iPhone X. \" Rainbrow \" (see what they did there) is the brainchild of Washington University computer …",
+    "url": "https://www.engadget.com/2017/12/18/rainbrow-iphone-x-game-eyebrows/",
+    "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F243f1bc1606065e67d59d62dc5b45bc1%2F205961770%2FScreen%2BShot%2B2017-12-18%2Bat%2B23.jpg&client=cbc79c14efcebee57402&signature=7002aa9f7e453dfd21177d4d556f832c8a688362",
+    "publishedAt": "2017-12-18T13:29:00Z"
+  }, {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Mat Smith",
+    "title": "The Morning After: Monday, December 18th 2017",
+    "description": "Monday morning arrives, and as we gear up for the pre-holiday weekend (ignoring the five days left to go), we're talking sell-out AirPods (really?), Firefox auto-installs (seriously), and we break down last week's big events in numerical style in the After Ma…",
+    "url": "https://www.engadget.com/2017/12/18/the-morning-after-monday-december-18th-2017/",
+    "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fe52f48cd9b8d2688007cc059eb3a403b%2F205961742%2F2017-12-18%2B09_27_43.gif&client=cbc79c14efcebee57402&signature=21e9a2c23d5b559f67411fa4e15871cf94a22b8f",
+    "publishedAt": "2017-12-18T11:00:00Z"
+  }, {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Engadget",
+    "title": "We're listening to: Sia, Tove Lo and 'Where Should We Begin?'",
+    "description": "Welcome back to IRL, our series dedicated to the things that Engadget writers have been playing, using, watching and listening to. This week we're focusing on music and podcasts, from Sia's Christmas album through to Rihanna's stunning Anti. First up, executi…",
+    "url": "https://www.engadget.com/2017/12/18/were-listening-to-sia-tove-lo-and-where-should-we-begin/",
+    "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fcbe24efb264f1165be71ecafa953f3b%2F205962201%2Fsia.jpg&client=cbc79c14efcebee57402&signature=f7c954bb4514168a5e5aea7ab4d43b55022ebad1",
+    "publishedAt": "2017-12-18T19:30:00Z"
+  }, {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Arielle Pardes",
+    "title": "The Shapa Smart Scale Never Tells You How Much You Weigh",
+    "description": "The Shapa scale captures your health data over time. But don't expect it to show you any numbers.",
+    "url": "https://www.wired.com/story/shapa-smart-scale/",
+    "urlToImage": "https://media.wired.com/photos/5a3420565b461c24af905755/191:100/pass/shapa-FA.jpg",
+    "publishedAt": "2017-12-18T14:00:00Z"
+  }, {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Jon Marcus",
+    "title": "Impatient With Colleges, Employers Design Their Own Courses",
+    "description": "Technology companies and other employers are crafting their own curricula and sharing them with colleges and universities.",
+    "url": "https://www.wired.com/story/impatient-with-colleges-employers-design-their-own-courses/",
+    "urlToImage": "https://media.wired.com/photos/5a34796c1b8a2f160a8dd5ec/191:100/pass/Pendulum-FeatureArt.jpg",
+    "publishedAt": "2017-12-18T11:00:00Z"
+  }, {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Brian Heater",
+    "title": "Good luck getting Apple AirPods before the holidays",
+    "description": "Apple’s wireless earbuds have been on the market for just over a year now, but they’re shaping up to be one of the biggest tech gifts for this holiday season. In fact, most of the big online retailers appear to have sold out of their stock. Amazon, Best Buy, …",
+    "url": "https://techcrunch.com/2017/12/18/good-luck-getting-apple-airpods-before-the-holidays/",
+    "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2016/12/airpods.png",
+    "publishedAt": "2017-12-18T20:08:09Z"
+  }, {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Brian Heater",
+    "title": "Adidas shifts away from making its own wearable tech",
+    "description": "Wearables are hard. Some of the biggest names in technology have tried and failed to find success in the space, and even those that have become synonymous with the category have struggled to keep up. Adidas is only the latest company to learn this lesson the …",
+    "url": "https://techcrunch.com/2017/12/18/adidas-shifts-away-from-making-its-own-wearable-tech/",
+    "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/08/fitbit_ionic_3qtr_sport_adidas.jpg",
+    "publishedAt": "2017-12-18T19:16:18Z"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Sam Rutherford",
+    "title": "Here's One Explanation for Why Your Old iPhone Feels so Damn Slow",
+    "description": "For years, people have complained about declining performance in their aging iPhones, an issue that’s commonly attributed to Apple’s software updates. Something beyond a rumor percolated just last week, when a Reddit thread suggested that the cause for the sl…",
+    "url": "https://gizmodo.com/heres-one-explanation-for-why-your-old-iphone-feels-so-1821400280",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--fp4H1kzJ--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/sglzzu67sv83urm716hf.jpg",
+    "publishedAt": "2017-12-18T22:25:00Z"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Melanie Ehrenkranz",
+    "title": "Facebook Says Government Requests for User Data Rose 21% In First Half of 2017",
+    "description": "Facebook released its latest transparency report today, which covered account data requests from the first half of 2017 and revealed a 21 percent increase in government requests for user data worldwide. Those requests rose from 64,279 in the second half of 20…",
+    "url": "https://gizmodo.com/facebook-says-government-requests-for-user-data-rose-21-1821396547",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--gnyTcVah--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/gk2qcizzux4kflouarso.jpg",
+    "publishedAt": "2017-12-18T21:00:00Z"
+  }, {
+    "source": {
+      "id": "mashable",
+      "name": "Mashable"
+    },
+    "author": "Monica Chin",
+    "title": "There's only one place you can still get Airpods in time for the holidays",
+    "description": "If you're a last-minute holiday shopper, you might be in trouble. Apple's Airpods, are in high demand as Christmas approaches. But as of today, most retailers are either sold out of the items or unable to ship them until after Christmas, AppleInsider reports.…",
+    "url": "http://mashable.com/2017/12/18/airpods-out-of-stock/",
+    "urlToImage": "https://i.amz.mshcdn.com/h6vwytCd9EWB0nlmb7rygYp7rNU=/1200x630/2017%2F12%2F18%2Fce%2F7aeebf946f1544fc9aeccbf74b0fab6c.9228f.jpg",
+    "publishedAt": "2017-12-18T16:16:58Z"
+  }, {
+    "source": {
+      "id": "mashable",
+      "name": "Mashable"
+    },
+    "author": "Emily Heller",
+    "title": "Learn how to develop Mac apps with this $15 online course",
+    "description": "Just to let you know, if you buy something featured here, Mashable might earn an affiliate commission. If you're sick of watching everyone else create multi-million dollar apps and programs for Mac and have been thinking it's about time you build your own, th…",
+    "url": "http://mashable.com/2017/12/18/mac-app-development-course/",
+    "urlToImage": "https://i.amz.mshcdn.com/eODHhC8E7H4nhMsxGc9IjdhrtH0=/1200x630/2017%2F12%2F18%2F2c%2F0e5bb6de00a1445dae44341a326da30b.4e155.jpg",
+    "publishedAt": "2017-12-18T19:09:35Z"
+  }, {
+    "source": {
+      "id": "mashable",
+      "name": "Mashable"
+    },
+    "author": "Raymond Wong",
+    "title": "Amazon's Echo Spot is the blueprint for all future smart speakers",
+    "description": "Every editorial product is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our journalism. Amazon's not declaring it a redo, but the Echo Spot, the company's latest Alexa-p…",
+    "url": "http://mashable.com/2017/12/18/amazon-echo-spot-review/",
+    "urlToImage": "https://i.amz.mshcdn.com/ugSSuvLkMS3CLWm2POJEXhFG3d4=/1200x630/2017%2F12%2F18%2F43%2F94a914600f1449338a54bf8441662c59.ab539.jpg",
+    "publishedAt": "2017-12-18T17:00:00Z"
+  }, {
+    "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+    },
+    "author": "Valentina Palladino",
+    "title": "ReMarkable tablet review: The high price of getting that paper feeling",
+    "description": "It’s hard to make the case for a $599 e-ink tablet in 2017.",
+    "url": "https://arstechnica.com/gadgets/2017/12/remarkable-tablet-review-the-high-price-of-getting-that-paper-feeling/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/remarkable7-760x380.jpg",
+    "publishedAt": "2017-12-18T17:00:46Z"
+  }, {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Reuters Editorial",
+    "title": "Internet giants told: Accept cyber curbs to be welcome in China",
+    "description": "GENEVA (Reuters) - Google and Facebook will have to accept China's censorship and tough online laws if they want access to its 751 million internet users, Chinese regulators told a conference in Geneva on Monday.",
+    "url": "https://www.reuters.com/article/us-china-cyber/internet-giants-told-accept-cyber-curbs-to-be-welcome-in-china-idUSKBN1EC1MQ",
+    "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20171218&t=2&i=1215379405&w=1200&r=LYNXMPEDBH115",
+    "publishedAt": "2017-12-18T13:21:39Z"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Androidcentral.com"
+    },
+    "author": "Phil Nickinson",
+    "title": "Best 4K streamers of 2017",
+    "description": "It's easier than ever to watch 4K content. It's also more confusing than ever. This will point you in the right direction. It's all about 4K, right? Ask anyone about streaming video, and they'll all try to push you toward the future, which is Ultra High-Defin…",
+    "url": "https://www.androidcentral.com/best-4k-streamers",
+    "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2017/01/nvidia-shield-android-tv-on-table-2.jpg?itok=LSJCJlQO",
+    "publishedAt": "2017-12-18T16:00:02Z"
+  }]
+}
