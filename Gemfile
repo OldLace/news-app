@@ -31,6 +31,15 @@ gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
 # Gem for Auth
 gem 'clearance', '~> 1.16', '>= 1.16.1'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+gem 'nokogiri', '~> 1.8', '>= 1.8.1'
+gem 'httparty', '~> 0.15.6'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'byebug'
+gem 'figaro'
+gem 'foundation-rails', '~> 6.4', '>= 6.4.1.3'
+#For the comments section
+gem 'simple_form', '~> 3.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
@@ -55,13 +64,7 @@ group :development do
   # gem 'auth0', '~> 4.1'
   # gem 'omniauth', '~> 1.3.1'
   # gem 'omniauth-auth0', '~> 1.4.1'
-  gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
-  gem 'nokogiri', '~> 1.8', '>= 1.8.1'
-  gem 'httparty', '~> 0.15.6'
-  gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
-  gem 'byebug'
-  gem 'figaro'
-  gem 'foundation-rails', '~> 6.4', '>= 6.4.1.3'
+
   # gem 'sass-rails', '~> 5.0', '>= 5.0.7'
 end
 

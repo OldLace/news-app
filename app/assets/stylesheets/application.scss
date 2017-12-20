@@ -1,37 +1,42 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-#newsfeed {
-  background-color: #CCCCCC;
-  text-decoration: none;
+//header alignment
+h1 {
+  position: relative;
+  float: left;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
-
-
-.theheadlines {
-  text-decoration: none;
-  width: 350px;
-  height: 50px;
-  border: solid whitesmoke 1px;
-  //border-radius: 4px;
-  //padding: 5px;
-  //box-shadow: 5px 10px #888888;
-
-}
-
-
-.listings {
-  text-decoration: none;
-  background: #e6f2ff;
-  border-radius: 5px;
-  color: whitesmoke;
-  padding: 3px 8px;
-}
+//#newsfeed {
+//  background-color: #CCCCCC;
+//  text-decoration: none;
+//}
+//
+//
+//.theheadlines {
+//  text-decoration: none;
+//  width: 350px;
+//  height: 50px;
+//  border: solid whitesmoke 1px;
+//  //border-radius: 4px;
+//  //padding: 5px;
+//  //box-shadow: 5px 10px #888888;
+//
+//}
+//
+//
+//.listings {
+//  text-decoration: none;
+//  background: #e6f2ff;
+//  border-radius: 5px;
+//  color: whitesmoke;
+//  padding: 3px 8px;
+//}
 
 .listings :hover {
   color: darkslategrey;
-
-
-
 }
 //header {
 //  position: relative;

@@ -1,0 +1,5 @@
+<%= simple_form_for @comment do |f| %>
+  <%= f.input :title, label: "Topic:" %>
+  <%= f.input :message, label: "Message:" %>
+  <% f.button :submit %>
+<% end %>

@@ -1,12 +1,22 @@
 
-<h1>Ye Olde Index Page</h1>
-
-<div id="newsfeed">
+<h1>Wahoo! News</h1>
+<div class="row">
+   <div class="col-md-8">
+   </div>
+</div>
   <h3>Recent Headlines</h3></div>
       <% @headlines["articles"].each do |headline| %>
-      <div class="theheadlines"><p class="listings"><a href="<%= headline["url"] %>"><%= headline["title"] %></a></p></div>
-  </h2>
-
+        <div class="panel panel-default">
+          <div class=""panel="heading">
+            <h3 class="panel-title">
+              <div class="theheadlines"><p class="listings"><a href="<%= headline["url"] %>"><%= headline["title"] %></a></p></div>
+            </h3>
+          </div>
+          <div class="panel-body">
+            <p><%= headline["description"] %></p>
+          </div>
+          </div>
+        </div>
 <% end %>
 
 
