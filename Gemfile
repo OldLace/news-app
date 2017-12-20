@@ -40,6 +40,7 @@ gem 'figaro'
 gem 'foundation-rails', '~> 6.4', '>= 6.4.1.3'
 #For the comments section
 gem 'simple_form', '~> 3.5'
+gem 'profanity_filter', '~> 0.1.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
